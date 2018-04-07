@@ -1,0 +1,4 @@
+1516272278544|796|statement|connection 0|select * from USERS where username=?|select * from USERS where username='admin'
+1516273295337|94|statement|connection 0|select * from USERS where username=?|select * from USERS where username='admin'
+1516273483753|152|statement|connection 0|select * from USERS where username=?|select * from USERS where username='admin'
+1516273898692|99|statement|connection 0|select * from USERS where username=?|select * from USERS where username='admin'
